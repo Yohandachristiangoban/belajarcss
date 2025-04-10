@@ -1,0 +1,45 @@
+h1 {
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color:aliceblue;
+    background-color: black;
+}
+
+#ultraman {
+    color: aqua;
+    background-color: black;
+}
+.warnasatu {
+    color: dodgerblue;
+    background-color: burlywood;
+}
+.warnadua {
+    color: blue;
+    background-color: black;
+}
+.warnatiga {
+    color:white;
+    background-color: black;
+}
+#kotak_satu {
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    margin-bottom: 15px;
+}
+#kotak_dua {
+    height: 100px;
+    width: 500px;
+    background-color: crimson;
+    margin-bottom: 15px;
+}
+#kotak_tiga {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
