@@ -43,3 +43,33 @@ p {
     background-color: blue;
     border-radius: 50%;
 }
+
+
+#bikinbg {
+    width: 500px;
+    height: 200px;
+    background-color:white;
+    background-image: url("../gambar/xx.jpg");
+    border-radius: 30px;
+    color: white;
+}
+
+#bikinbg h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#bikinpattern {
+    width: 500px;
+    height: 200px;
+    background-color:red;
+    background-image: url("../gambar/pettern100.jpg");
+    border-radius: 20px;
+    color:black;
+    background-repeat: repeat;
+}
+
+#bikinpattern h2 {
+    text-align: center;
+    padding-top: 50px;
+}
